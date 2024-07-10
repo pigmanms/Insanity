@@ -1,7 +1,7 @@
-## Insanity
+# Insanity
 황홀한 작품들을 모아놓는 공간입니다. 
 
-# Chroma Web
+## Chroma Web
 
 Github Repo 주소: https://github.com/pigmanms/ChromaWeb
 
